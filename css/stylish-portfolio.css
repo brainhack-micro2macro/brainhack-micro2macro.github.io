@@ -304,6 +304,14 @@ hr.small {
     opacity: 0.8;
 }
 
+/* Speakers */
+
+.speaker {
+  max-width:200px;
+  height:auto;
+  border-radius: 50%;
+}
+
 /* Call to Action */
 
 .call-to-action {
